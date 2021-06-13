@@ -37,6 +37,7 @@ This is a page where all the menu available are listed.
 
 d) Views, Controllers, Routes, Models, ERD
 
+https://user-images.githubusercontent.com/82050487/121809331-f99a6680-cc8e-11eb-9784-fd57c9e374c8.png
 
 
 
