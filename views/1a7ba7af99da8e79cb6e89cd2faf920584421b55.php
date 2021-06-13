@@ -1,0 +1,1 @@
+<h3>Footer Page</h3><?php /**PATH C:\Users\sya23\Desktop\finalproject\resources\views/footer.blade.php ENDPATH**/ ?>
