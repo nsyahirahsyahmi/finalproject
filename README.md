@@ -1,63 +1,49 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+Topic: Mahallah Asiah's Cafeteria Online Food Ordering Web Application
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Project Proposal Group 10
 
-## About Laravel
+Group Members:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Wan Nor Shafiqah binti Wan Ali (1916262)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Nurul Syahirah Syahmi Binti Mhd Azhar (1919070)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+a) Introduction
 
-## Learning Laravel
+As we all know, the world is currently going through a global pandemic known as COVID-19. COVID-19 is an infectious disease caused by a newly discovered coronavirus. The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes. Hence, it is important to practice social distancing to lower the risk of getting infected. To avoid Mahallah Asiah's Cafeteria from being too crowded with people, which would make social distancing impossible, we have decided to develop a web application where customers can view the menu and order online. This will help create a systematic work flow. By browsing the menu online, customers no longer need to physically go to the cafeteria just to look at the menu of the day. If they are interested with the menu, they can straight away order it online and only go to the cafeteria once their order is ready. This can not only decrease the number of people in the cafeteria, but also save customer's time.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+b) Objective
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+To create a user-friendly web application where user can easily order food and beverage of their choice.
+To create a web application where user can browse the menu of the day for Mahallah Asiah's cafeteria.
+To create an environment where social distancing is practiced on a daily basis.
+To ease caterer and chef's job of handling multiple orders.
 
-## Laravel Sponsors
+c) Features and Functionality
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Register, Log In, Log Out (User Authentication)
 
-### Premium Partners
+Users are required to register first before entering home page.
+Implements the user authentication feature by making sure the username and password matches.
+Menu Page
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+This is a page where all the menu available are listed.
+Menu Page
 
-## Contributing
+This is a page where user can order the food and beverage of choice.
+Before ordering, user are required to enter their details such as name and phone number so that if anything happened, user can be contacted easily.
+Main/Home Page
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+User can choose to view the menu or order food.
+d) Views, Controllers, Routes, Models, ERD
 
-## Code of Conduct
+erd
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+e) References
 
-## Security Vulnerabilities
+World Health Organization (WHO): https://www.who.int/health-topics/coronavirus#tab=tab_1
+Bootstrap: https://getbootstrap.com/docs/3.3/getting-started/
+JQuery: https://code.jquery.com/
+W3Schools: https://www.w3schools.com/
+Code By Code Step Youtube: https://www.youtube.com/watch?v=DbAFTWolVys&list=PL8p2I9GklV47EWeJZlC-_dgj7kdBWYd56&index=21
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# finalproject" 
