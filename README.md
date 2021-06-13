@@ -21,23 +21,23 @@ To ease caterer and chef's job of handling multiple orders.
 
 c) Features and Functionality
 
-Register, Log In, Log Out (User Authentication)
+1) Register, Log In, Log Out (User Authentication)
 
-Users are required to register first before entering home page.
-Implements the user authentication feature by making sure the username and password matches.
-Menu Page
+Register Page: Users are required to enter their username, email and password to register.
+
+Log In: Users are required to enter their credentials based on what they registered. If credentials does not match, they an error message will be displayed.
+
+Home Page: Users will be directed to home page after log in.
+
+Log Out: Users will be redirected back to log in page when they log out.
+
+2) Home Page
 
 This is a page where all the menu available are listed.
-Menu Page
 
-This is a page where user can order the food and beverage of choice.
-Before ordering, user are required to enter their details such as name and phone number so that if anything happened, user can be contacted easily.
-Main/Home Page
-
-User can choose to view the menu or order food.
 d) Views, Controllers, Routes, Models, ERD
 
-erd
+
 
 
 e) References
@@ -47,4 +47,3 @@ Bootstrap: https://getbootstrap.com/docs/3.3/getting-started/
 JQuery: https://code.jquery.com/
 W3Schools: https://www.w3schools.com/
 Code By Code Step Youtube: https://www.youtube.com/watch?v=DbAFTWolVys&list=PL8p2I9GklV47EWeJZlC-_dgj7kdBWYd56&index=21
-
